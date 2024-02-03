@@ -22,3 +22,4 @@ Insura is a multi-insurance agency and client management system. It is written i
 - Notifications
 - Show online users# insura_insurance
 # INsura
+# INsura
